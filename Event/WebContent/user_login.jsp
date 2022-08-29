@@ -41,7 +41,7 @@
 
 				<form action="<%=request.getContextPath()%>/user_login" method="post">
 					<div class="register-top-grid">
-						<h3>User Login;</h3>
+						<h3>User Login</h3>
 						<div class="input">
 							<span>User name /email address<label style="color:red;">*</label></span>
 							<input type="text" name="ue" placeholder="input your username" required="required" style="width:650px;height:35px">
